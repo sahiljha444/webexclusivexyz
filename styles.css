@@ -1,0 +1,255 @@
+@import url('https://fonts.googleapis.com/css2?family=Corinthia&display=swap');
+
+body {
+  background-color: #E1F2FB;
+  color: #40514E;
+  text-align: center;
+  padding-top: 0px;
+  margin: 0px;
+}
+
+h1 {
+  margin: 0px 1px 1px 1px;
+  font-size: 150px;
+  font-family: 'Corinthia', cursive;
+  color: #1EAE98;
+  font-weight: 500;
+  padding-top: 200px;
+  padding-bottom: 0px;
+  height: 150px;
+}
+
+h2 {
+  color: #11999E;
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 30px;
+  font-family: serif;
+  margin: 5px 1px 23px 1px;
+  color: #11999E;
+}
+
+p {
+  font-size: 1.2em;
+  font-family: adobe-garamond-pro, HelveticaNeue-Light, "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+  line-height: 2;
+}
+
+hr{
+border: dotted #97BFB4 6px;
+border-bottom: none;
+margin: 75px auto;
+width: 10%;
+}
+
+.helloboy {
+  height: 150px;
+  position: absolute;
+  left: 100px;
+  top: 20px;
+}
+
+#hi {
+  width: 40%;
+  text-align: center;
+  margin: auto;
+}
+
+.cloud1 {
+  position: absolute;
+  height: 60px;
+  right: 200px;
+  top: 160px;
+}
+
+.cloud2 {
+  position: absolute;
+  height: 60px;
+  left: 200px;
+  top: 400px;
+}
+
+.start {
+  background-color: #D3E4CD;
+}
+
+.LAND {
+  height: 330px;
+}
+
+.profile {
+  margin-top: 100px;
+  margin-bottom:0px;
+}
+
+.prog {
+  font-size: 30px;
+  color: #1EAE98;
+  margin-bottom: 100px;
+  font-weight: normal;
+  margin-top: 0px;
+}
+
+#im {
+  padding-right: 20px;
+  color: red;
+}
+
+.dp {
+  height: 160px;
+}
+
+.middle {
+  width: 50%;
+  margin: auto;
+}
+
+.skills {
+  margin-bottom: 50px;
+}
+
+.skill-row1 {
+  text-align: left;
+}
+
+.skill-row2 {
+  text-align: right;
+}
+
+.designer {
+  height: 150px;
+  margin-top: 50px;
+  float: right;
+  margin-left: 40px;
+}
+
+#des {
+  text-align: left;
+}
+
+.developer {
+  height: 150px;
+  margin-top: 30px;
+  float: left;
+  margin-right: 40px;
+}
+
+#dev {
+  margin-bottom: 50px;
+}
+
+.pubg {
+  height: 80px;
+}
+
+.end {
+  color: #EAF6F6;
+  margin-bottom: -10px;
+  margin-top: 60PX;
+  font-size: 12PX;
+}
+
+.right:hover{
+color: #142F43;
+}
+.right{
+  text-decoration: underline;
+}
+
+.contact {
+  text-decoration: none;
+  color: #EAF6F6;
+  font-family: serif;
+}
+
+.MM {
+  height: 30px;
+}
+
+.social {
+  height: 40px;
+  padding-right: 8px;
+}
+
+.bottom-container {
+  background: #66BFBF;
+  padding-top: 40px;
+}
+
+.footer-link {
+  padding-left: 15px;
+  padding-right: 15px;
+  color: #11999E;
+  text-decoration: none;
+}
+
+.footer-link:hover{
+  color: #142F43;
+  text-decoration: none;
+}
+
+.FRIENDS {
+  font-family: cursive;
+  color: red;
+  margin-top: 0px;
+}
+
+.pubg-row {
+  width: 50%;
+  margin:0px auto 50px auto;
+  text-align: right;
+}
+
+.bgmi {
+  color: red;
+  margin-bottom: 10px;
+}
+
+.id {
+  color: black;
+  font-size: 15px;
+  margin-bottom: 40px;
+}
+
+.shinchan {
+  height: 70px;
+}
+
+#need {
+  width: 40%;
+  text-align: center;
+  margin: auto;
+  margin-top: 40px;
+  margin-bottom: 60px;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 15px 15px;
+  text-decoration: none;
+  margin-bottom: 50px;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
